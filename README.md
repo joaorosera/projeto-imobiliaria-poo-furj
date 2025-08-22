@@ -147,7 +147,7 @@ Dentro do SQLite, você pode usar:
 ```sql
 .tables         -- Lista as tabelas
 .schema         -- Mostra a estrutura
-SELECT * FROM Cliente;   -- Exemplo de consulta
+SELECT * FROM cliente;   -- Exemplo de consulta
 ```
 
 ---
