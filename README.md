@@ -79,6 +79,10 @@ imobiliaria_terminal_sqlite_v2/
 <img width="1561" height="585" alt="Variáveis de Ambiente - Maven" src="https://github.com/user-attachments/assets/a23546c9-5d79-4169-9301-7d797d12dc88" />
 
 3. Coloque o executável do **SQLite** em `C:\sqlite`
+
+<img width="1919" height="1050" alt="SQLite" src="https://github.com/user-attachments/assets/45fc6202-3d6b-46bc-8434-3c1974ee415a" />
+
+
 4. Certifique-se de que o arquivo `imobiliaria.db` está na pasta do projeto.
 
 
