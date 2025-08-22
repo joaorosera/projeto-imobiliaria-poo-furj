@@ -78,6 +78,9 @@ imobiliaria_terminal_sqlite_v2/
 3. Coloque o executável do **SQLite** em `C:\sqlite`
 4. Certifique-se de que o arquivo `imobiliaria.db` está na pasta do projeto.
 
+<img width="1561" height="585" alt="Variáveis de Ambiente - Maven" src="https://github.com/user-attachments/assets/a23546c9-5d79-4169-9301-7d797d12dc88" />
+
+
 ---
 
 ## 🛠 Como rodar no terminal
@@ -122,7 +125,8 @@ C:\maven\apache-maven-3.9.11\bin\mvn.cmd -q -Dexec.mainClass=br.com.imobiliaria.
 Para abrir o banco:
 
 ```bash
-C:\sqlite\sqlite3.exe imobiliaria.db
+C:\sqlite\sqlite3.exe imobiliaria.db![Uploading Variáveis de Ambiente - Maven.png…]()
+
 ```
 
 ---
