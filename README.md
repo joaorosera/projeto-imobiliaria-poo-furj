@@ -148,6 +148,10 @@ SELECT * FROM Cliente;   -- Exemplo de consulta
 
 ---
 
-## 📝 Autor
+## 📝 Autores
+
+João Vitor Rosera
+Marcelo Vinicius Leicht
+Vinicius Werner
 
 Projeto desenvolvido como exemplo de **sistema imobiliário** em **Java + SQLite** com execução em **terminal**.
