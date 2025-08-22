@@ -71,6 +71,10 @@ imobiliaria_terminal_sqlite_v2/
 ## 🔢 Como configurar o ambiente
 
 1. Coloque a pasta **do Maven** em `C:\maven`
+
+<img width="1919" height="1052" alt="Maven" src="https://github.com/user-attachments/assets/dd7d85d0-1daf-4b79-8196-639bf19762be" />
+
+
 2. Configure as variáveis de ambiente:
 
    * `MAVEN_HOME`
